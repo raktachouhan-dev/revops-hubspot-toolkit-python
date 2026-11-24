@@ -1,0 +1,9 @@
+name,domain,aum_usd_bn,strategy,sector_focus,hq_country,months_since_fundraise,debt_maturity_12m
+Northfield Capital Partners,northfieldcap.example,62,Buyout,"Healthcare, Software",US,5,true
+Alder Credit Advisors,aldercredit.example,18,Private Credit,Industrials,UK,9,true
+Brightwater Growth,brightwatergrowth.example,7,Growth Equity,"Fintech, SaaS",US,22,false
+Kestrel Ventures,kestrelvc.example,1.2,Venture,Consumer,IN,30,false
+Harbor Lane Real Assets,harborlane.example,11,Real Estate,Logistics,SG,14,true
+Meridian Buyout Group,meridianbuyout.example,3.5,Buyout,Business Services,DE,11,false
+Quill Street Capital,quillstreet.example,0.6,Growth Equity,Media,BR,40,false
+Summit Ridge Credit,summitridge.example,29,Private Credit,"Software, Healthcare",US,3,false
